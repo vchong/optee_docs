@@ -148,6 +148,7 @@ Running VTS Gtest unit for Gatekeeper and Keymaster (Optional)
 On the device after going into the command prompt, run:
 
 .. code-block:: bash
+   :linenos:
 
     $ su
     $ ./data/nativetest64/VtsHalGatekeeperV1_0TargetTest/VtsHalGatekeeperV1_0TargetTest
